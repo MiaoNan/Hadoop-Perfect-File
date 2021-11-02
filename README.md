@@ -27,6 +27,7 @@ decompress and recompress the entire archive file.
 
 
 Creating and adding files to the HPF file is done using the PerfectFile.Writer class and reading the HPF file is done using the PerfectFile.Reader class.
+However, however however however.
 
 ## Example of writing to HPF file
 
